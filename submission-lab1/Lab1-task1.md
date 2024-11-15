@@ -7,6 +7,7 @@ Black Dashboard Django was chosen as a template.
 - https://github.com/creativetimofficial/black-dashboard-django
 
 <br />
+
 ### Screenshots:
 
 ![Lab1_Creative_SS](https://github.com/user-attachments/assets/49b01df1-0d55-48f1-a3b4-bfa017d45f5d)
